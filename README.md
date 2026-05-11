@@ -33,6 +33,14 @@ plain-English explanations and actionable suggestions.
 
 ---
 
+## Preview
+
+<p align="center">
+  <img src="screenshots/demo.png" alt="QyverixAI home page screenshot" width="100%" />
+</p>
+
+---
+
 ## What is QyverixAI?
 
 Many beginners struggle with reading error messages, understanding what their code does, or knowing how to improve it. QyverixAI solves this with a clean workspace where you paste code and instantly get:
